@@ -1,2 +1,2 @@
-# gis
-Rework Mid Exam GIS UMS
+# Jawaban UTS
+Gilang Arif Prakoso L200130043
